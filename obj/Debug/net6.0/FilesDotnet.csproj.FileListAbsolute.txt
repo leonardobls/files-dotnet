@@ -1,0 +1,15 @@
+C:\pessoal\FilesDotnet\bin\Debug\net6.0\FilesDotnet.exe
+C:\pessoal\FilesDotnet\bin\Debug\net6.0\FilesDotnet.deps.json
+C:\pessoal\FilesDotnet\bin\Debug\net6.0\FilesDotnet.runtimeconfig.json
+C:\pessoal\FilesDotnet\bin\Debug\net6.0\FilesDotnet.dll
+C:\pessoal\FilesDotnet\bin\Debug\net6.0\FilesDotnet.pdb
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.csproj.AssemblyReference.cache
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.AssemblyInfoInputs.cache
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.AssemblyInfo.cs
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.csproj.CoreCompileInputs.cache
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.dll
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\refint\FilesDotnet.dll
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.pdb
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\FilesDotnet.genruntimeconfig.cache
+C:\pessoal\FilesDotnet\obj\Debug\net6.0\ref\FilesDotnet.dll
